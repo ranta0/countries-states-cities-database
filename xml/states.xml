@@ -19647,105 +19647,6 @@
     <longitude>13.72891670</longitude>
   </state>
   <state>
-    <id>1727</id>
-    <name>Agrigento</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>AG</state_code>
-    <type>free municipal consortium</type>
-    <latitude>37.31052020</latitude>
-    <longitude>13.58579780</longitude>
-  </state>
-  <state>
-    <id>1783</id>
-    <name>Alessandria</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>AL</state_code>
-    <type>province</type>
-    <latitude>44.81755870</latitude>
-    <longitude>8.70466270</longitude>
-  </state>
-  <state>
-    <id>1672</id>
-    <name>Ancona</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>AN</state_code>
-    <type>province</type>
-    <latitude>43.54932450</latitude>
-    <longitude>13.26634790</longitude>
-  </state>
-  <state>
-    <id>1716</id>
-    <name>Aosta Valley</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>23</state_code>
-    <type>autonomous region</type>
-    <latitude>45.73888780</latitude>
-    <longitude>7.42618660</longitude>
-  </state>
-  <state>
-    <id>1688</id>
-    <name>Apulia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>75</state_code>
-    <type>region</type>
-    <latitude>40.79283930</latitude>
-    <longitude>17.10119310</longitude>
-  </state>
-  <state>
-    <id>1681</id>
-    <name>Ascoli Piceno</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>AP</state_code>
-    <type>province</type>
-    <latitude>42.86389330</latitude>
-    <longitude>13.58997330</longitude>
-  </state>
-  <state>
-    <id>1780</id>
-    <name>Asti</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>AT</state_code>
-    <type>province</type>
-    <latitude>44.90076520</latitude>
-    <longitude>8.20643150</longitude>
-  </state>
-  <state>
-    <id>1692</id>
-    <name>Avellino</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>AV</state_code>
-    <type>province</type>
-    <latitude>40.99645100</latitude>
-    <longitude>15.12589550</longitude>
-  </state>
-  <state>
-    <id>1686</id>
-    <name>Barletta-Andria-Trani</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BT</state_code>
-    <type>province</type>
-    <latitude>41.20045430</latitude>
-    <longitude>16.20514840</longitude>
-  </state>
-  <state>
     <id>1706</id>
     <name>Basilicata</name>
     <country_id>107</country_id>
@@ -19755,72 +19656,6 @@
     <type>region</type>
     <latitude>40.64307660</latitude>
     <longitude>15.96998780</longitude>
-  </state>
-  <state>
-    <id>1689</id>
-    <name>Belluno</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BL</state_code>
-    <type>province</type>
-    <latitude>46.24976590</latitude>
-    <longitude>12.19695650</longitude>
-  </state>
-  <state>
-    <id>1701</id>
-    <name>Benevento</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BN</state_code>
-    <type>province</type>
-    <latitude>41.20350930</latitude>
-    <longitude>14.75209390</longitude>
-  </state>
-  <state>
-    <id>1704</id>
-    <name>Bergamo</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BG</state_code>
-    <type>province</type>
-    <latitude>45.69826420</latitude>
-    <longitude>9.67726980</longitude>
-  </state>
-  <state>
-    <id>1778</id>
-    <name>Biella</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BI</state_code>
-    <type>province</type>
-    <latitude>45.56281760</latitude>
-    <longitude>8.05827170</longitude>
-  </state>
-  <state>
-    <id>1717</id>
-    <name>Brescia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BS</state_code>
-    <type>province</type>
-    <latitude>45.54155260</latitude>
-    <longitude>10.21180190</longitude>
-  </state>
-  <state>
-    <id>1714</id>
-    <name>Brindisi</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BR</state_code>
-    <type>province</type>
-    <latitude>40.61126630</latitude>
-    <longitude>17.76362100</longitude>
   </state>
   <state>
     <id>1703</id>
@@ -19834,17 +19669,6 @@
     <longitude>16.34637910</longitude>
   </state>
   <state>
-    <id>1718</id>
-    <name>Caltanissetta</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CL</state_code>
-    <type>free municipal consortium</type>
-    <latitude>37.48601300</latitude>
-    <longitude>14.06149820</longitude>
-  </state>
-  <state>
     <id>1669</id>
     <name>Campania</name>
     <country_id>107</country_id>
@@ -19854,105 +19678,6 @@
     <type>region</type>
     <latitude>40.66708870</latitude>
     <longitude>15.10681130</longitude>
-  </state>
-  <state>
-    <id>1721</id>
-    <name>Campobasso</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CB</state_code>
-    <type>province</type>
-    <latitude>41.67388650</latitude>
-    <longitude>14.75209390</longitude>
-  </state>
-  <state>
-    <id>1731</id>
-    <name>Caserta</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CE</state_code>
-    <type>province</type>
-    <latitude>41.20783540</latitude>
-    <longitude>14.10013260</longitude>
-  </state>
-  <state>
-    <id>1728</id>
-    <name>Catanzaro</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CZ</state_code>
-    <type>province</type>
-    <latitude>38.88963480</latitude>
-    <longitude>16.44058720</longitude>
-  </state>
-  <state>
-    <id>1739</id>
-    <name>Chieti</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CH</state_code>
-    <type>province</type>
-    <latitude>42.03344280</latitude>
-    <longitude>14.37919120</longitude>
-  </state>
-  <state>
-    <id>1740</id>
-    <name>Como</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CO</state_code>
-    <type>province</type>
-    <latitude>45.80804160</latitude>
-    <longitude>9.08517930</longitude>
-  </state>
-  <state>
-    <id>1742</id>
-    <name>Cosenza</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CS</state_code>
-    <type>province</type>
-    <latitude>39.56441050</latitude>
-    <longitude>16.25221430</longitude>
-  </state>
-  <state>
-    <id>1751</id>
-    <name>Cremona</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CR</state_code>
-    <type>province</type>
-    <latitude>45.20143750</latitude>
-    <longitude>9.98365820</longitude>
-  </state>
-  <state>
-    <id>1754</id>
-    <name>Crotone</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>KR</state_code>
-    <type>province</type>
-    <latitude>39.13098560</latitude>
-    <longitude>17.00670310</longitude>
-  </state>
-  <state>
-    <id>1775</id>
-    <name>Cuneo</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CN</state_code>
-    <type>province</type>
-    <latitude>44.59703140</latitude>
-    <longitude>7.61142170</longitude>
   </state>
   <state>
     <id>1773</id>
@@ -19966,61 +19691,6 @@
     <longitude>11.21863960</longitude>
   </state>
   <state>
-    <id>1723</id>
-    <name>Enna</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>EN</state_code>
-    <type>free municipal consortium</type>
-    <latitude>37.56762160</latitude>
-    <longitude>14.27953490</longitude>
-  </state>
-  <state>
-    <id>1744</id>
-    <name>Fermo</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>FM</state_code>
-    <type>province</type>
-    <latitude>43.09313670</latitude>
-    <longitude>13.58997330</longitude>
-  </state>
-  <state>
-    <id>1746</id>
-    <name>Ferrara</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>FE</state_code>
-    <type>province</type>
-    <latitude>44.76636800</latitude>
-    <longitude>11.76440680</longitude>
-  </state>
-  <state>
-    <id>1771</id>
-    <name>Foggia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>FG</state_code>
-    <type>province</type>
-    <latitude>41.63844800</latitude>
-    <longitude>15.59433880</longitude>
-  </state>
-  <state>
-    <id>1779</id>
-    <name>Forlì-Cesena</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>FC</state_code>
-    <type>province</type>
-    <latitude>43.99476810</latitude>
-    <longitude>11.98046130</longitude>
-  </state>
-  <state>
     <id>1756</id>
     <name>Friuli–Venezia Giulia</name>
     <country_id>107</country_id>
@@ -20030,94 +19700,6 @@
     <type>autonomous region</type>
     <latitude>46.22591770</latitude>
     <longitude>13.10336460</longitude>
-  </state>
-  <state>
-    <id>1776</id>
-    <name>Frosinone</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>FR</state_code>
-    <type>province</type>
-    <latitude>41.65765280</latitude>
-    <longitude>13.63627150</longitude>
-  </state>
-  <state>
-    <id>1777</id>
-    <name>Gorizia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>GO</state_code>
-    <type>decentralized regional entity</type>
-    <latitude>45.90538990</latitude>
-    <longitude>13.51637250</longitude>
-  </state>
-  <state>
-    <id>1787</id>
-    <name>Grosseto</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>GR</state_code>
-    <type>province</type>
-    <latitude>42.85180070</latitude>
-    <longitude>11.25237920</longitude>
-  </state>
-  <state>
-    <id>1788</id>
-    <name>Imperia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>IM</state_code>
-    <type>province</type>
-    <latitude>43.94186600</latitude>
-    <longitude>7.82863680</longitude>
-  </state>
-  <state>
-    <id>1789</id>
-    <name>Isernia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>IS</state_code>
-    <type>province</type>
-    <latitude>41.58915550</latitude>
-    <longitude>14.19309180</longitude>
-  </state>
-  <state>
-    <id>1781</id>
-    <name>L'Aquila</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>AQ</state_code>
-    <type>province</type>
-    <latitude>42.12563170</latitude>
-    <longitude>13.63627150</longitude>
-  </state>
-  <state>
-    <id>1791</id>
-    <name>La Spezia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SP</state_code>
-    <type>province</type>
-    <latitude>44.24479130</latitude>
-    <longitude>9.76786870</longitude>
-  </state>
-  <state>
-    <id>1674</id>
-    <name>Latina</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>LT</state_code>
-    <type>province</type>
-    <latitude>41.40874760</latitude>
-    <longitude>13.08179030</longitude>
   </state>
   <state>
     <id>1678</id>
@@ -20131,28 +19713,6 @@
     <longitude>12.73851000</longitude>
   </state>
   <state>
-    <id>1675</id>
-    <name>Lecce</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>LE</state_code>
-    <type>province</type>
-    <latitude>40.23473930</latitude>
-    <longitude>18.14286690</longitude>
-  </state>
-  <state>
-    <id>1677</id>
-    <name>Lecco</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>LC</state_code>
-    <type>province</type>
-    <latitude>45.93829410</latitude>
-    <longitude>9.38572900</longitude>
-  </state>
-  <state>
     <id>1768</id>
     <name>Liguria</name>
     <country_id>107</country_id>
@@ -20164,30 +19724,8 @@
     <longitude>8.39649380</longitude>
   </state>
   <state>
-    <id>1745</id>
-    <name>Livorno</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>LI</state_code>
-    <type>province</type>
-    <latitude>43.02398480</latitude>
-    <longitude>10.66471010</longitude>
-  </state>
-  <state>
-    <id>1747</id>
-    <name>Lodi</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>LO</state_code>
-    <type>province</type>
-    <latitude>45.24050360</latitude>
-    <longitude>9.52925120</longitude>
-  </state>
-  <state>
     <id>1705</id>
-    <name>Lombardy</name>
+    <name>Lombardia</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
@@ -20195,39 +19733,6 @@
     <type>region</type>
     <latitude>45.47906710</latitude>
     <longitude>9.84524330</longitude>
-  </state>
-  <state>
-    <id>1749</id>
-    <name>Lucca</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>LU</state_code>
-    <type>province</type>
-    <latitude>43.83767360</latitude>
-    <longitude>10.49505300</longitude>
-  </state>
-  <state>
-    <id>1750</id>
-    <name>Macerata</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>MC</state_code>
-    <type>province</type>
-    <latitude>43.24593220</latitude>
-    <longitude>13.26634790</longitude>
-  </state>
-  <state>
-    <id>1758</id>
-    <name>Mantua</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>MN</state_code>
-    <type>province</type>
-    <latitude>45.16677280</latitude>
-    <longitude>10.77536130</longitude>
   </state>
   <state>
     <id>1670</id>
@@ -20241,50 +19746,6 @@
     <longitude>13.71947000</longitude>
   </state>
   <state>
-    <id>1759</id>
-    <name>Massa and Carrara</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>MS</state_code>
-    <type>province</type>
-    <latitude>44.22139980</latitude>
-    <longitude>10.03596610</longitude>
-  </state>
-  <state>
-    <id>1760</id>
-    <name>Matera</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>MT</state_code>
-    <type>province</type>
-    <latitude>40.66634960</latitude>
-    <longitude>16.60436360</longitude>
-  </state>
-  <state>
-    <id>1761</id>
-    <name>Medio Campidano</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VS</state_code>
-    <type>province</type>
-    <latitude>39.53173890</latitude>
-    <longitude>8.70407500</longitude>
-  </state>
-  <state>
-    <id>1757</id>
-    <name>Modena</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>MO</state_code>
-    <type>province</type>
-    <latitude>44.55137990</latitude>
-    <longitude>10.91804800</longitude>
-  </state>
-  <state>
     <id>1695</id>
     <name>Molise</name>
     <country_id>107</country_id>
@@ -20296,140 +19757,8 @@
     <longitude>14.75209390</longitude>
   </state>
   <state>
-    <id>1769</id>
-    <name>Monza and Brianza</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>MB</state_code>
-    <type>province</type>
-    <latitude>45.62359900</latitude>
-    <longitude>9.25880150</longitude>
-  </state>
-  <state>
-    <id>1774</id>
-    <name>Novara</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>NO</state_code>
-    <type>province</type>
-    <latitude>45.54851330</latitude>
-    <longitude>8.51507930</longitude>
-  </state>
-  <state>
-    <id>1790</id>
-    <name>Nuoro</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>NU</state_code>
-    <type>province</type>
-    <latitude>40.32869040</latitude>
-    <longitude>9.45615500</longitude>
-  </state>
-  <state>
-    <id>1786</id>
-    <name>Oristano</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>OR</state_code>
-    <type>province</type>
-    <latitude>40.05990680</latitude>
-    <longitude>8.74811670</longitude>
-  </state>
-  <state>
-    <id>1665</id>
-    <name>Padua</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PD</state_code>
-    <type>province</type>
-    <latitude>45.36618640</latitude>
-    <longitude>11.82091390</longitude>
-  </state>
-  <state>
-    <id>1668</id>
-    <name>Palermo</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PA</state_code>
-    <type>province</type>
-    <latitude>38.11569000</latitude>
-    <longitude>13.36148680</longitude>
-  </state>
-  <state>
-    <id>1666</id>
-    <name>Parma</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PR</state_code>
-    <type>province</type>
-    <latitude>44.80153220</latitude>
-    <longitude>10.32793540</longitude>
-  </state>
-  <state>
-    <id>1676</id>
-    <name>Pavia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PV</state_code>
-    <type>province</type>
-    <latitude>45.32181660</latitude>
-    <longitude>8.84662360</longitude>
-  </state>
-  <state>
-    <id>1691</id>
-    <name>Perugia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PG</state_code>
-    <type>province</type>
-    <latitude>42.93800400</latitude>
-    <longitude>12.62162110</longitude>
-  </state>
-  <state>
-    <id>1693</id>
-    <name>Pesaro and Urbino</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PU</state_code>
-    <type>province</type>
-    <latitude>43.61301180</latitude>
-    <longitude>12.71351210</longitude>
-  </state>
-  <state>
-    <id>1694</id>
-    <name>Pescara</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PE</state_code>
-    <type>province</type>
-    <latitude>42.35706550</latitude>
-    <longitude>13.96080910</longitude>
-  </state>
-  <state>
-    <id>1696</id>
-    <name>Piacenza</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PC</state_code>
-    <type>province</type>
-    <latitude>44.82631120</latitude>
-    <longitude>9.52914470</longitude>
-  </state>
-  <state>
     <id>1702</id>
-    <name>Piedmont</name>
+    <name>Piemonte</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
@@ -20439,140 +19768,19 @@
     <longitude>7.51538850</longitude>
   </state>
   <state>
-    <id>1685</id>
-    <name>Pisa</name>
+    <id>1688</id>
+    <name>Puglia</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
-    <state_code>PI</state_code>
-    <type>province</type>
-    <latitude>43.72283150</latitude>
-    <longitude>10.40171940</longitude>
-  </state>
-  <state>
-    <id>1687</id>
-    <name>Pistoia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PT</state_code>
-    <type>province</type>
-    <latitude>43.95437330</latitude>
-    <longitude>10.89030990</longitude>
-  </state>
-  <state>
-    <id>1690</id>
-    <name>Pordenone</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PN</state_code>
-    <type>decentralized regional entity</type>
-    <latitude>46.03788620</latitude>
-    <longitude>12.71083500</longitude>
-  </state>
-  <state>
-    <id>1697</id>
-    <name>Potenza</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PZ</state_code>
-    <type>province</type>
-    <latitude>40.41821940</latitude>
-    <longitude>15.87600400</longitude>
-  </state>
-  <state>
-    <id>1700</id>
-    <name>Prato</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>PO</state_code>
-    <type>province</type>
-    <latitude>44.04539000</latitude>
-    <longitude>11.11644520</longitude>
-  </state>
-  <state>
-    <id>1729</id>
-    <name>Ragusa</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RG</state_code>
-    <type>free municipal consortium</type>
-    <latitude>36.92692730</latitude>
-    <longitude>14.72551290</longitude>
-  </state>
-  <state>
-    <id>1707</id>
-    <name>Ravenna</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RA</state_code>
-    <type>province</type>
-    <latitude>44.41844430</latitude>
-    <longitude>12.20359980</longitude>
-  </state>
-  <state>
-    <id>1708</id>
-    <name>Reggio Emilia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RE</state_code>
-    <type>province</type>
-    <latitude>44.58565800</latitude>
-    <longitude>10.55647360</longitude>
-  </state>
-  <state>
-    <id>1712</id>
-    <name>Rieti</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RI</state_code>
-    <type>province</type>
-    <latitude>42.36744050</latitude>
-    <longitude>12.89750980</longitude>
-  </state>
-  <state>
-    <id>1713</id>
-    <name>Rimini</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RN</state_code>
-    <type>province</type>
-    <latitude>44.06782880</latitude>
-    <longitude>12.56951580</longitude>
-  </state>
-  <state>
-    <id>1719</id>
-    <name>Rovigo</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RO</state_code>
-    <type>province</type>
-    <latitude>45.02418180</latitude>
-    <longitude>11.82381620</longitude>
-  </state>
-  <state>
-    <id>1720</id>
-    <name>Salerno</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SA</state_code>
-    <type>province</type>
-    <latitude>40.42878320</latitude>
-    <longitude>15.21948080</longitude>
+    <state_code>75</state_code>
+    <type>region</type>
+    <latitude>40.79283930</latitude>
+    <longitude>17.10119310</longitude>
   </state>
   <state>
     <id>1715</id>
-    <name>Sardinia</name>
+    <name>Sardegna</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
@@ -20582,30 +19790,8 @@
     <longitude>9.01289260</longitude>
   </state>
   <state>
-    <id>1722</id>
-    <name>Sassari</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SS</state_code>
-    <type>province</type>
-    <latitude>40.79679070</latitude>
-    <longitude>8.57504070</longitude>
-  </state>
-  <state>
-    <id>1732</id>
-    <name>Savona</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SV</state_code>
-    <type>province</type>
-    <latitude>44.28879950</latitude>
-    <longitude>8.26505800</longitude>
-  </state>
-  <state>
     <id>1709</id>
-    <name>Sicily</name>
+    <name>Sicilia</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
@@ -20615,129 +19801,8 @@
     <longitude>14.01535570</longitude>
   </state>
   <state>
-    <id>1734</id>
-    <name>Siena</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SI</state_code>
-    <type>province</type>
-    <latitude>43.29377320</latitude>
-    <longitude>11.43391480</longitude>
-  </state>
-  <state>
-    <id>1667</id>
-    <name>Siracusa</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SR</state_code>
-    <type>free municipal consortium</type>
-    <latitude>37.06569240</latitude>
-    <longitude>15.28571090</longitude>
-  </state>
-  <state>
-    <id>1741</id>
-    <name>Sondrio</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SO</state_code>
-    <type>province</type>
-    <latitude>46.17276360</latitude>
-    <longitude>9.79949170</longitude>
-  </state>
-  <state>
-    <id>1730</id>
-    <name>South Sardinia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>SU</state_code>
-    <type>province</type>
-    <latitude>39.38935350</latitude>
-    <longitude>8.93970000</longitude>
-  </state>
-  <state>
-    <id>1743</id>
-    <name>Taranto</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TA</state_code>
-    <type>province</type>
-    <latitude>40.57409010</latitude>
-    <longitude>17.24299760</longitude>
-  </state>
-  <state>
-    <id>1752</id>
-    <name>Teramo</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TE</state_code>
-    <type>province</type>
-    <latitude>42.58956080</latitude>
-    <longitude>13.63627150</longitude>
-  </state>
-  <state>
-    <id>1755</id>
-    <name>Terni</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TR</state_code>
-    <type>province</type>
-    <latitude>42.56345340</latitude>
-    <longitude>12.52980280</longitude>
-  </state>
-  <state>
-    <id>1733</id>
-    <name>Trapani</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TP</state_code>
-    <type>free municipal consortium</type>
-    <latitude>38.01831160</latitude>
-    <longitude>12.51482650</longitude>
-  </state>
-  <state>
-    <id>1725</id>
-    <name>Trentino-South Tyrol</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>32</state_code>
-    <type>autonomous region</type>
-    <latitude>46.43366620</latitude>
-    <longitude>11.16932960</longitude>
-  </state>
-  <state>
-    <id>1762</id>
-    <name>Treviso</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TV</state_code>
-    <type>province</type>
-    <latitude>45.66685170</latitude>
-    <longitude>12.24306170</longitude>
-  </state>
-  <state>
-    <id>1763</id>
-    <name>Trieste</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TS</state_code>
-    <type>decentralized regional entity</type>
-    <latitude>45.68948230</latitude>
-    <longitude>13.78330720</longitude>
-  </state>
-  <state>
     <id>1664</id>
-    <name>Tuscany</name>
+    <name>Toscana</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
@@ -20747,15 +19812,15 @@
     <longitude>11.24862080</longitude>
   </state>
   <state>
-    <id>1764</id>
-    <name>Udine</name>
+    <id>1725</id>
+    <name>Trentino-Alto Adige/Südtirol</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
-    <state_code>UD</state_code>
-    <type>decentralized regional entity</type>
-    <latitude>46.14079720</latitude>
-    <longitude>13.16628960</longitude>
+    <state_code>32</state_code>
+    <type>autonomous region</type>
+    <latitude>46.43366620</latitude>
+    <longitude>11.16932960</longitude>
   </state>
   <state>
     <id>1683</id>
@@ -20769,15 +19834,15 @@
     <longitude>12.62162110</longitude>
   </state>
   <state>
-    <id>1765</id>
-    <name>Varese</name>
+    <id>1716</id>
+    <name>Valle d'Aosta/Vallée d'Aoste</name>
     <country_id>107</country_id>
     <country_code>IT</country_code>
     <country_name>Italy</country_name>
-    <state_code>VA</state_code>
-    <type>province</type>
-    <latitude>45.79902600</latitude>
-    <longitude>8.73009450</longitude>
+    <state_code>23</state_code>
+    <type>autonomous region</type>
+    <latitude>45.73888780</latitude>
+    <longitude>7.42618660</longitude>
   </state>
   <state>
     <id>1753</id>
@@ -20789,72 +19854,6 @@
     <type>region</type>
     <latitude>45.44146620</latitude>
     <longitude>12.31525950</longitude>
-  </state>
-  <state>
-    <id>1726</id>
-    <name>Verbano-Cusio-Ossola</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VB</state_code>
-    <type>province</type>
-    <latitude>46.13996880</latitude>
-    <longitude>8.27246490</longitude>
-  </state>
-  <state>
-    <id>1785</id>
-    <name>Vercelli</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VC</state_code>
-    <type>province</type>
-    <latitude>45.32022040</latitude>
-    <longitude>8.41850800</longitude>
-  </state>
-  <state>
-    <id>1736</id>
-    <name>Verona</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VR</state_code>
-    <type>province</type>
-    <latitude>45.44184980</latitude>
-    <longitude>11.07353160</longitude>
-  </state>
-  <state>
-    <id>1737</id>
-    <name>Vibo Valentia</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VV</state_code>
-    <type>province</type>
-    <latitude>38.63785650</latitude>
-    <longitude>16.20514840</longitude>
-  </state>
-  <state>
-    <id>1738</id>
-    <name>Vicenza</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VI</state_code>
-    <type>province</type>
-    <latitude>45.69839950</latitude>
-    <longitude>11.56614650</longitude>
-  </state>
-  <state>
-    <id>1735</id>
-    <name>Viterbo</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VT</state_code>
-    <type>province</type>
-    <latitude>42.40024200</latitude>
-    <longitude>11.88917210</longitude>
   </state>
   <state>
     <id>3753</id>
@@ -36147,17 +35146,6 @@
     <longitude>-66.30628020</longitude>
   </state>
   <state>
-    <id>5144</id>
-    <name>Bayamón</name>
-    <country_id>178</country_id>
-    <country_code>PR</country_code>
-    <country_name>Puerto Rico</country_name>
-    <state_code>021</state_code>
-    <type>municipalities</type>
-    <latitude>18.38939600</latitude>
-    <longitude>-66.16532240</longitude>
-  </state>
-  <state>
     <id>5076</id>
     <name>Bayamon</name>
     <country_id>178</country_id>
@@ -36167,6 +35155,17 @@
     <type>region</type>
     <latitude>18.17777778</latitude>
     <longitude>-66.11333333</longitude>
+  </state>
+  <state>
+    <id>5144</id>
+    <name>Bayamón</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>021</state_code>
+    <type>municipalities</type>
+    <latitude>18.38939600</latitude>
+    <longitude>-66.16532240</longitude>
   </state>
   <state>
     <id>5145</id>
@@ -36180,17 +35179,6 @@
     <longitude>-67.14573470</longitude>
   </state>
   <state>
-    <id>5146</id>
-    <name>Caguas</name>
-    <country_id>178</country_id>
-    <country_code>PR</country_code>
-    <country_name>Puerto Rico</country_name>
-    <state_code>025</state_code>
-    <type>municipalities</type>
-    <latitude>18.23879950</latitude>
-    <longitude>-66.03524900</longitude>
-  </state>
-  <state>
     <id>5079</id>
     <name>Caguas</name>
     <country_id>178</country_id>
@@ -36200,6 +35188,17 @@
     <type>region</type>
     <latitude>18.23333333</latitude>
     <longitude>-66.03333333</longitude>
+  </state>
+  <state>
+    <id>5146</id>
+    <name>Caguas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>025</state_code>
+    <type>municipalities</type>
+    <latitude>18.23879950</latitude>
+    <longitude>-66.03524900</longitude>
   </state>
   <state>
     <id>5147</id>
@@ -36224,17 +35223,6 @@
     <longitude>-65.89975330</longitude>
   </state>
   <state>
-    <id>5149</id>
-    <name>Carolina</name>
-    <country_id>178</country_id>
-    <country_code>PR</country_code>
-    <country_name>Puerto Rico</country_name>
-    <state_code>031</state_code>
-    <type>municipalities</type>
-    <latitude>18.36808770</latitude>
-    <longitude>-66.04247340</longitude>
-  </state>
-  <state>
     <id>5077</id>
     <name>Carolina</name>
     <country_id>178</country_id>
@@ -36244,6 +35232,17 @@
     <type>region</type>
     <latitude>18.38888889</latitude>
     <longitude>-65.96666667</longitude>
+  </state>
+  <state>
+    <id>5149</id>
+    <name>Carolina</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>031</state_code>
+    <type>municipalities</type>
+    <latitude>18.36808770</latitude>
+    <longitude>-66.04247340</longitude>
   </state>
   <state>
     <id>5150</id>
@@ -36411,17 +35410,6 @@
     <longitude>-66.79184200</longitude>
   </state>
   <state>
-    <id>5165</id>
-    <name>Guaynabo</name>
-    <country_id>178</country_id>
-    <country_code>PR</country_code>
-    <country_name>Puerto Rico</country_name>
-    <state_code>061</state_code>
-    <type>municipalities</type>
-    <latitude>18.36129540</latitude>
-    <longitude>-66.11029570</longitude>
-  </state>
-  <state>
     <id>5080</id>
     <name>Guaynabo</name>
     <country_id>178</country_id>
@@ -36431,6 +35419,17 @@
     <type>region</type>
     <latitude>18.36666667</latitude>
     <longitude>-66.10000000</longitude>
+  </state>
+  <state>
+    <id>5165</id>
+    <name>Guaynabo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>061</state_code>
+    <type>municipalities</type>
+    <latitude>18.36129540</latitude>
+    <longitude>-66.11029570</longitude>
   </state>
   <state>
     <id>5166</id>
@@ -36620,17 +35619,6 @@
     <longitude>-65.89932890</longitude>
   </state>
   <state>
-    <id>5183</id>
-    <name>Mayagüez</name>
-    <country_id>178</country_id>
-    <country_code>PR</country_code>
-    <country_name>Puerto Rico</country_name>
-    <state_code>097</state_code>
-    <type>municipalities</type>
-    <latitude>18.20134520</latitude>
-    <longitude>-67.14515490</longitude>
-  </state>
-  <state>
     <id>5083</id>
     <name>Mayagüez</name>
     <country_id>178</country_id>
@@ -36640,6 +35628,17 @@
     <type>region</type>
     <latitude>18.20111111</latitude>
     <longitude>-67.13972222</longitude>
+  </state>
+  <state>
+    <id>5183</id>
+    <name>Mayagüez</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>097</state_code>
+    <type>municipalities</type>
+    <latitude>18.20134520</latitude>
+    <longitude>-67.14515490</longitude>
   </state>
   <state>
     <id>5184</id>
@@ -36719,17 +35718,6 @@
     <longitude>-66.72738960</longitude>
   </state>
   <state>
-    <id>5191</id>
-    <name>Ponce</name>
-    <country_id>178</country_id>
-    <country_code>PR</country_code>
-    <country_name>Puerto Rico</country_name>
-    <state_code>113</state_code>
-    <type>municipalities</type>
-    <latitude>18.01107680</latitude>
-    <longitude>-66.61406160</longitude>
-  </state>
-  <state>
     <id>5078</id>
     <name>Ponce</name>
     <country_id>178</country_id>
@@ -36739,6 +35727,17 @@
     <type>region</type>
     <latitude>18.00000000</latitude>
     <longitude>-66.61666667</longitude>
+  </state>
+  <state>
+    <id>5191</id>
+    <name>Ponce</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>113</state_code>
+    <type>municipalities</type>
+    <latitude>18.01107680</latitude>
+    <longitude>-66.61406160</longitude>
   </state>
   <state>
     <id>5192</id>
@@ -36873,17 +35872,6 @@
     <longitude>-66.24822370</longitude>
   </state>
   <state>
-    <id>5203</id>
-    <name>Toa Baja</name>
-    <country_id>178</country_id>
-    <country_code>PR</country_code>
-    <country_name>Puerto Rico</country_name>
-    <state_code>137</state_code>
-    <type>municipalities</type>
-    <latitude>18.44447090</latitude>
-    <longitude>-66.25432930</longitude>
-  </state>
-  <state>
     <id>5082</id>
     <name>Toa Baja</name>
     <country_id>178</country_id>
@@ -36895,15 +35883,15 @@
     <longitude>-66.25972200</longitude>
   </state>
   <state>
-    <id>5204</id>
-    <name>Trujillo Alto</name>
+    <id>5203</id>
+    <name>Toa Baja</name>
     <country_id>178</country_id>
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
-    <state_code>139</state_code>
+    <state_code>137</state_code>
     <type>municipalities</type>
-    <latitude>18.35467190</latitude>
-    <longitude>-66.00738760</longitude>
+    <latitude>18.44447090</latitude>
+    <longitude>-66.25432930</longitude>
   </state>
   <state>
     <id>5084</id>
@@ -36915,6 +35903,17 @@
     <type>region</type>
     <latitude>18.36277800</latitude>
     <longitude>-66.01750000</longitude>
+  </state>
+  <state>
+    <id>5204</id>
+    <name>Trujillo Alto</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>139</state_code>
+    <type>municipalities</type>
+    <latitude>18.35467190</latitude>
+    <longitude>-66.00738760</longitude>
   </state>
   <state>
     <id>5205</id>
@@ -45112,17 +44111,6 @@
     <longitude>120.44911130</longitude>
   </state>
   <state>
-    <id>3417</id>
-    <name>Hsinchu</name>
-    <country_id>216</country_id>
-    <country_code>TW</country_code>
-    <country_name>Taiwan</country_name>
-    <state_code>HSZ</state_code>
-    <type>city</type>
-    <latitude>24.81382870</latitude>
-    <longitude>120.96747980</longitude>
-  </state>
-  <state>
     <id>3423</id>
     <name>Hsinchu</name>
     <country_id>216</country_id>
@@ -45132,6 +44120,17 @@
     <type>county</type>
     <latitude>24.83872260</latitude>
     <longitude>121.01772460</longitude>
+  </state>
+  <state>
+    <id>3417</id>
+    <name>Hsinchu</name>
+    <country_id>216</country_id>
+    <country_code>TW</country_code>
+    <country_name>Taiwan</country_name>
+    <state_code>HSZ</state_code>
+    <type>city</type>
+    <latitude>24.81382870</latitude>
+    <longitude>120.96747980</longitude>
   </state>
   <state>
     <id>3411</id>
